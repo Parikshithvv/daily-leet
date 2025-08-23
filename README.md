@@ -6,6 +6,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Parikshithvv/daily-leet/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
@@ -34,5 +35,10 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
