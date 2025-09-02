@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0792-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -53,4 +55,12 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Parikshithvv/daily-leet/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
