@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parikshithvv/daily-leet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Parikshithvv/daily-leet/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Parikshithvv/daily-leet/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parikshithvv/daily-leet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Parikshithvv/daily-leet/tree/master/0031-next-permutation) |
 ## Math
 |  |
@@ -58,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parikshithvv/daily-leet/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
