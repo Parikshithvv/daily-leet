@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Parikshithvv/daily-leet/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
