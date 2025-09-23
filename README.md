@@ -30,6 +30,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parikshithvv/daily-leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parikshithvv/daily-leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parikshithvv/daily-leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parikshithvv/daily-leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0056-merge-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 ## Counting
 |  |
 | ------- |
