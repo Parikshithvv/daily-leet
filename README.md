@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
@@ -162,6 +163,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Parikshithvv/daily-leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Parikshithvv/daily-leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0142-linked-list-cycle-ii) |
@@ -176,6 +178,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
 ## Stack
