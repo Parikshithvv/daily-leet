@@ -75,6 +75,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Parikshithvv/daily-leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0142-linked-list-cycle-ii) |
@@ -210,12 +211,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
