@@ -87,6 +87,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Parikshithvv/daily-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
@@ -150,6 +151,7 @@
 | [0088-merge-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Parikshithvv/daily-leet/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -224,6 +226,7 @@
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
