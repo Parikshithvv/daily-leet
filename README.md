@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Parikshithvv/daily-leet/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0151-reverse-words-in-a-string) |
