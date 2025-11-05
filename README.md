@@ -96,6 +96,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Union Find
 |  |
@@ -163,6 +164,7 @@
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Divide and Conquer
 |  |
@@ -241,6 +243,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Sliding Window
