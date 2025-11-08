@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parikshithvv/daily-leet/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Parikshithvv/daily-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -292,11 +293,13 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parikshithvv/daily-leet/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Parikshithvv/daily-leet/tree/master/0232-implement-queue-using-stacks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parikshithvv/daily-leet/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Parikshithvv/daily-leet/tree/master/0232-implement-queue-using-stacks) |
 ## Memoization
 |  |
 | ------- |
