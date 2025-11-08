@@ -126,6 +126,7 @@
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Parikshithvv/daily-leet/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Trie
 |  |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parikshithvv/daily-leet/tree/master/0225-implement-stack-using-queues) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
