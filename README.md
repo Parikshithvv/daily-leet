@@ -72,6 +72,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Parikshithvv/daily-leet/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
