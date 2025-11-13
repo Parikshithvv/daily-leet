@@ -30,6 +30,7 @@
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0907-koko-eating-bananas) |
@@ -100,6 +101,7 @@
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
@@ -241,6 +243,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Parikshithvv/daily-leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parikshithvv/daily-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String
@@ -319,4 +322,8 @@
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
