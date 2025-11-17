@@ -50,6 +50,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -263,6 +264,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
@@ -350,4 +352,5 @@
 | [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
