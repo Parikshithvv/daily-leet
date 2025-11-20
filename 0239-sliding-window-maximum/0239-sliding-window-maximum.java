@@ -1,27 +1,32 @@
 class Solution {
-    public int[] maxSlidingWindow(int[] a, int k) {
-        int n = a.length;
-        int[] r = new int[n - k + 1];
-        int ri = 0;
-        // store index
-        Deque < Integer > q = new ArrayDeque < > ();
-        for (int i = 0; i < a.length; i++) {
-            // remove numbers out of range k
-            if (!q.isEmpty() && q.peek() == i - k) {
-                q.poll();
-            }
-            // remove smaller numbers in k range as they are useless
-            while (!q.isEmpty() && a[q.peekLast()] < a[i]) {
-                q.pollLast();
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        int n = nums.length;
+        Deque<Integer> dq = new ArrayDeque<>();
+        int[] ans = new int[n - k + 1];
+        int idx = 0;
+
+        for (int i = 0; i < n; i++) {
+           
+            if (!dq.isEmpty() && dq.peekFirst() <= i - k) {
+                dq.pollFirst();
             }
 
-            q.offer(i);
+            while (!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]) {
+                dq.pollLast();
+            }
+
+            dq.addLast(i);
+
             if (i >= k - 1) {
-                r[ri++] = a[q.peek()];
+                ans[idx++] = nums[dq.peekFirst()];
             }
         }
-        return r;
+
+        return ans;
     }
-        
-    
 }
+//  size theek kro
+//  maximum dq.front() par a ajae
+//  usko push kr do
+// push nums[dq.front()] in ur ans
+//   we r stroing index not values
