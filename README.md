@@ -85,6 +85,7 @@
 | [0002-add-two-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
 ## Stack
