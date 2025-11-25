@@ -89,6 +89,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
+| [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -261,6 +262,7 @@
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
