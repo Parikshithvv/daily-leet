@@ -57,6 +57,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -142,6 +143,7 @@
 | [0085-maximal-rectangle](https://github.com/Parikshithvv/daily-leet/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
