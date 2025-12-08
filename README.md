@@ -21,6 +21,7 @@
 | [0056-merge-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parikshithvv/daily-leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Parikshithvv/daily-leet/tree/master/0085-maximal-rectangle) |
@@ -344,6 +345,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Parikshithvv/daily-leet/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Trie
@@ -405,4 +407,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
