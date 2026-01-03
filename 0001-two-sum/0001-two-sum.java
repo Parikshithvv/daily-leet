@@ -6,11 +6,11 @@ class Solution {
             int rem = target - nums[i];
 
             if (map.containsKey(rem)) {
-                return new int[]{ map.get(rem), i };
+                return new int[] { map.get(rem), i };
             }
 
             map.put(nums[i], i);
         }
-        return new int[]{};
+        return new int[] {};
     }
 }
