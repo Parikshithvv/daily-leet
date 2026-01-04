@@ -33,6 +33,7 @@
 | [0090-subsets-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Parikshithvv/daily-leet/tree/master/0162-find-peak-element) |
@@ -129,6 +130,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Parikshithvv/daily-leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parikshithvv/daily-leet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -176,6 +178,7 @@
 | [0085-maximal-rectangle](https://github.com/Parikshithvv/daily-leet/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Parikshithvv/daily-leet/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
@@ -325,6 +328,7 @@
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Parikshithvv/daily-leet/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Parikshithvv/daily-leet/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
@@ -365,6 +369,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Parikshithvv/daily-leet/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -395,6 +400,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Number Theory
 |  |
