@@ -100,6 +100,7 @@
 | [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
@@ -335,6 +336,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Parikshithvv/daily-leet/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
@@ -439,6 +441,7 @@
 | [0090-subsets-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Parikshithvv/daily-leet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Parikshithvv/daily-leet/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
