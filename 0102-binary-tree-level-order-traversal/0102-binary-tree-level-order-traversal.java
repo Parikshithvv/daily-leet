@@ -26,7 +26,7 @@ class Solution {
             List<Integer> level = new ArrayList<>();
 
             for (int i = 0; i < size; i++) {
-                TreeNode node = q.poll();
+                TreeNode node = q.remove();
                 level.add(node.val);
 
                 if (node.left != null) q.offer(node.left);
