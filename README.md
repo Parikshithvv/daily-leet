@@ -64,6 +64,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parikshithvv/daily-leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parikshithvv/daily-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
