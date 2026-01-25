@@ -66,6 +66,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parikshithvv/daily-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -237,6 +238,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Counting
 |  |
@@ -376,6 +378,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Bit Manipulation
 |  |
