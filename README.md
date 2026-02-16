@@ -39,6 +39,7 @@
 | [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Parikshithvv/daily-leet/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Parikshithvv/daily-leet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Parikshithvv/daily-leet/tree/master/0239-sliding-window-maximum) |
@@ -145,6 +146,7 @@
 | [0141-linked-list-cycle](https://github.com/Parikshithvv/daily-leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parikshithvv/daily-leet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
@@ -238,6 +240,7 @@
 | [0056-merge-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Parikshithvv/daily-leet/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
@@ -249,6 +252,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
@@ -260,6 +264,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parikshithvv/daily-leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Parikshithvv/daily-leet/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
