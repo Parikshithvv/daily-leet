@@ -189,6 +189,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -329,6 +330,7 @@
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
@@ -382,6 +384,7 @@
 | [0812-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
