@@ -59,6 +59,7 @@
 | [0907-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parikshithvv/daily-leet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -183,6 +184,7 @@
 | [0079-word-search](https://github.com/Parikshithvv/daily-leet/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Parikshithvv/daily-leet/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -570,6 +572,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Parikshithvv/daily-leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
