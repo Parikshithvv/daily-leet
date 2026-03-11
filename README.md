@@ -422,6 +422,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0090-subsets-ii) |
+| [1009-complement-of-base-10-integer](https://github.com/Parikshithvv/daily-leet/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Parikshithvv/daily-leet/tree/master/3676-smallest-number-with-all-set-bits) |
