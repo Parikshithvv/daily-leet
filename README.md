@@ -76,6 +76,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parikshithvv/daily-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
@@ -126,6 +127,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
 | [1622-fancy-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
@@ -199,6 +201,7 @@
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
@@ -277,6 +280,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Parikshithvv/daily-leet/tree/master/3634-minimum-removals-to-balance-array) |
@@ -328,6 +332,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -461,6 +466,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Parikshithvv/daily-leet/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
