@@ -64,6 +64,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parikshithvv/daily-leet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -200,6 +201,7 @@
 | [0542-01-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
@@ -551,6 +553,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
 ## Tree
 |  |
 | ------- |
@@ -615,6 +618,7 @@
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -648,6 +652,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Parikshithvv/daily-leet/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Parikshithvv/daily-leet/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parikshithvv/daily-leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
