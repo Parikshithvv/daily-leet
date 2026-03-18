@@ -88,6 +88,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parikshithvv/daily-leet/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parikshithvv/daily-leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -209,6 +210,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parikshithvv/daily-leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parikshithvv/daily-leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
