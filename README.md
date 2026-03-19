@@ -87,6 +87,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parikshithvv/daily-leet/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parikshithvv/daily-leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parikshithvv/daily-leet/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -136,6 +137,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Parikshithvv/daily-leet/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -184,6 +186,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union Find
@@ -211,6 +214,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Parikshithvv/daily-leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parikshithvv/daily-leet/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Simulation
