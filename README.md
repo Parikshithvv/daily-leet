@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Parikshithvv/daily-leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Parikshithvv/daily-leet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Parikshithvv/daily-leet/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Parikshithvv/daily-leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parikshithvv/daily-leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parikshithvv/daily-leet/tree/master/0027-remove-element) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Parikshithvv/daily-leet/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Parikshithvv/daily-leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parikshithvv/daily-leet/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Parikshithvv/daily-leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Parikshithvv/daily-leet/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Parikshithvv/daily-leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parikshithvv/daily-leet/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Parikshithvv/daily-leet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/0056-merge-intervals) |
