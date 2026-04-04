@@ -159,6 +159,7 @@
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Parikshithvv/daily-leet/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Parikshithvv/daily-leet/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Parikshithvv/daily-leet/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -263,6 +264,7 @@
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Parikshithvv/daily-leet/tree/master/0799-champagne-tower) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -423,6 +425,7 @@
 | [0402-remove-k-digits](https://github.com/Parikshithvv/daily-leet/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
@@ -456,6 +459,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parikshithvv/daily-leet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
