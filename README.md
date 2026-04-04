@@ -62,6 +62,7 @@
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/Parikshithvv/daily-leet/tree/master/0860-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
@@ -158,6 +159,7 @@
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Parikshithvv/daily-leet/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Parikshithvv/daily-leet/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Parikshithvv/daily-leet/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
