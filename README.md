@@ -250,6 +250,7 @@
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Parikshithvv/daily-leet/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2069-walking-robot-simulation-ii) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -545,6 +546,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Parikshithvv/daily-leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parikshithvv/daily-leet/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2069-walking-robot-simulation-ii) |
 ## Memoization
 |  |
 | ------- |
