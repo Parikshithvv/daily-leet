@@ -109,6 +109,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Parikshithvv/daily-leet/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parikshithvv/daily-leet/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Parikshithvv/daily-leet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Parikshithvv/daily-leet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/0493-reverse-pairs) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Parikshithvv/daily-leet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
