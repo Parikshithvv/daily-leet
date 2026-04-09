@@ -61,6 +61,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Parikshithvv/daily-leet/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
@@ -301,6 +302,7 @@
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
