@@ -114,6 +114,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Parikshithvv/daily-leet/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Parikshithvv/daily-leet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parikshithvv/daily-leet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parikshithvv/daily-leet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Union Find
 |  |
 | ------- |
