@@ -93,6 +93,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parikshithvv/daily-leet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Parikshithvv/daily-leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
@@ -184,6 +185,7 @@
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Parikshithvv/daily-leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
