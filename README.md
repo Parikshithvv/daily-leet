@@ -86,6 +86,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parikshithvv/daily-leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Parikshithvv/daily-leet/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Parikshithvv/daily-leet/tree/master/1675-magnetic-force-between-two-balls) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Parikshithvv/daily-leet/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parikshithvv/daily-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Parikshithvv/daily-leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -647,6 +648,7 @@
 | [0785-is-graph-bipartite](https://github.com/Parikshithvv/daily-leet/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Parikshithvv/daily-leet/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Tree
 |  |
 | ------- |
@@ -752,6 +754,7 @@
 | [0547-number-of-provinces](https://github.com/Parikshithvv/daily-leet/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Parikshithvv/daily-leet/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Parikshithvv/daily-leet/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parikshithvv/daily-leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
