@@ -146,6 +146,7 @@
 | [0148-sort-list](https://github.com/Parikshithvv/daily-leet/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parikshithvv/daily-leet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Parikshithvv/daily-leet/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Parikshithvv/daily-leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -161,6 +162,7 @@
 | [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -217,6 +219,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parikshithvv/daily-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
