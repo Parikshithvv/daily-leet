@@ -50,6 +50,7 @@
 | [0162-find-peak-element](https://github.com/Parikshithvv/daily-leet/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Parikshithvv/daily-leet/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Parikshithvv/daily-leet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Parikshithvv/daily-leet/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -221,6 +222,7 @@
 | [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Parikshithvv/daily-leet/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Parikshithvv/daily-leet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
@@ -363,6 +365,7 @@
 | [0088-merge-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Parikshithvv/daily-leet/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Parikshithvv/daily-leet/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Parikshithvv/daily-leet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Parikshithvv/daily-leet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
