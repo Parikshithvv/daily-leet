@@ -169,6 +169,7 @@
 | [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/Parikshithvv/daily-leet/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
@@ -479,6 +480,7 @@
 | [0206-reverse-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Parikshithvv/daily-leet/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
 ## Stack
