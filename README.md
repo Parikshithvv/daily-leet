@@ -69,6 +69,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
+| [0766-toeplitz-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parikshithvv/daily-leet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Parikshithvv/daily-leet/tree/master/0860-lemonade-change) |
@@ -274,6 +275,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1559-detect-cycles-in-2d-grid) |
