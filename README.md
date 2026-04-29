@@ -167,6 +167,7 @@
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -476,6 +477,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Parikshithvv/daily-leet/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
@@ -571,6 +573,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Parikshithvv/daily-leet/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
