@@ -132,6 +132,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parikshithvv/daily-leet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -296,6 +297,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Parikshithvv/daily-leet/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parikshithvv/daily-leet/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parikshithvv/daily-leet/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Parikshithvv/daily-leet/tree/master/2463-minimum-total-distance-traveled) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
