@@ -65,6 +65,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Parikshithvv/daily-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Parikshithvv/daily-leet/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Parikshithvv/daily-leet/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parikshithvv/daily-leet/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Parikshithvv/daily-leet/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Parikshithvv/daily-leet/tree/master/0733-flood-fill) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Parikshithvv/daily-leet/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Parikshithvv/daily-leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Parikshithvv/daily-leet/tree/master/0874-walking-robot-simulation) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Parikshithvv/daily-leet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -519,6 +521,7 @@
 | [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Parikshithvv/daily-leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
