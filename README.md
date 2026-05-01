@@ -56,6 +56,7 @@
 | [0239-sliding-window-maximum](https://github.com/Parikshithvv/daily-leet/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Parikshithvv/daily-leet/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Parikshithvv/daily-leet/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Parikshithvv/daily-leet/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
@@ -176,6 +177,7 @@
 | [0282-expression-add-operators](https://github.com/Parikshithvv/daily-leet/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Parikshithvv/daily-leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Parikshithvv/daily-leet/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Parikshithvv/daily-leet/tree/master/0396-rotate-function) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
@@ -334,6 +336,7 @@
 | [0139-word-break](https://github.com/Parikshithvv/daily-leet/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Parikshithvv/daily-leet/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Parikshithvv/daily-leet/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0542-01-matrix) |
