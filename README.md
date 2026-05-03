@@ -826,6 +826,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Parikshithvv/daily-leet/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Parikshithvv/daily-leet/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Parikshithvv/daily-leet/tree/master/0785-is-graph-bipartite) |
