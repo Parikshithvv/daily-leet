@@ -567,6 +567,7 @@
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Parikshithvv/daily-leet/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1078-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parikshithvv/daily-leet/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -623,6 +624,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Parikshithvv/daily-leet/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
