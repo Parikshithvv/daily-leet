@@ -79,6 +79,7 @@
 | [0860-lemonade-change](https://github.com/Parikshithvv/daily-leet/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Parikshithvv/daily-leet/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Parikshithvv/daily-leet/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
@@ -254,6 +255,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Parikshithvv/daily-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Parikshithvv/daily-leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/Parikshithvv/daily-leet/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/Parikshithvv/daily-leet/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
@@ -604,6 +606,7 @@
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Parikshithvv/daily-leet/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parikshithvv/daily-leet/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Parikshithvv/daily-leet/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
