@@ -104,6 +104,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parikshithvv/daily-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Parikshithvv/daily-leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Parikshithvv/daily-leet/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parikshithvv/daily-leet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -170,6 +171,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0908-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Parikshithvv/daily-leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Parikshithvv/daily-leet/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parikshithvv/daily-leet/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
@@ -301,6 +303,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Parikshithvv/daily-leet/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parikshithvv/daily-leet/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Parikshithvv/daily-leet/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
