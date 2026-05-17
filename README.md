@@ -92,6 +92,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parikshithvv/daily-leet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Parikshithvv/daily-leet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1306-jump-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parikshithvv/daily-leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -779,6 +780,7 @@
 | [0785-is-graph-bipartite](https://github.com/Parikshithvv/daily-leet/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Parikshithvv/daily-leet/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Tree
@@ -851,6 +853,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Parikshithvv/daily-leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Parikshithvv/daily-leet/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parikshithvv/daily-leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Doubly-Linked List
