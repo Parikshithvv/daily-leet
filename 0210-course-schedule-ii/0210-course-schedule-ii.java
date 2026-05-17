@@ -27,7 +27,7 @@ class Solution {
         }
 
         for (int[] p : prerequisites) {
-            adj.get(p[1]).add(p[0]); // edge
+            adj.get(p[1]).add(p[0]); 
         }
 
         int[] vis = new int[numCourses];
@@ -37,7 +37,7 @@ class Solution {
         for (int i = 0; i < numCourses; i++) {
             if (vis[i] == 0) {
                 if (dfs(i, adj, vis, pathVis, st)) {
-                    return new int[0]; // cycle → not possible
+                    return new int[0]; 
                 }
             }
         }
