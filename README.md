@@ -124,6 +124,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Parikshithvv/daily-leet/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Parikshithvv/daily-leet/tree/master/2463-minimum-total-distance-traveled) |
+| [2540-minimum-common-value](https://github.com/Parikshithvv/daily-leet/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Parikshithvv/daily-leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Parikshithvv/daily-leet/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -185,6 +186,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Parikshithvv/daily-leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Parikshithvv/daily-leet/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/Parikshithvv/daily-leet/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parikshithvv/daily-leet/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
@@ -286,6 +288,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parikshithvv/daily-leet/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/Parikshithvv/daily-leet/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Parikshithvv/daily-leet/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Parikshithvv/daily-leet/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -423,6 +426,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Parikshithvv/daily-leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2540-minimum-common-value](https://github.com/Parikshithvv/daily-leet/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parikshithvv/daily-leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
