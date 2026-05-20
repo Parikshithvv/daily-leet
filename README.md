@@ -30,6 +30,7 @@
 | [0055-jump-game](https://github.com/Parikshithvv/daily-leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Parikshithvv/daily-leet/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
@@ -312,6 +313,7 @@
 | [0037-sudoku-solver](https://github.com/Parikshithvv/daily-leet/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Parikshithvv/daily-leet/tree/master/0079-word-search) |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Parikshithvv/daily-leet/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Parikshithvv/daily-leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
