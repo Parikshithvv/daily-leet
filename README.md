@@ -200,6 +200,7 @@
 | [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Parikshithvv/daily-leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Parikshithvv/daily-leet/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Parikshithvv/daily-leet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
@@ -355,6 +356,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Parikshithvv/daily-leet/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Parikshithvv/daily-leet/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Parikshithvv/daily-leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parikshithvv/daily-leet/tree/master/0735-asteroid-collision) |
@@ -625,6 +627,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parikshithvv/daily-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Parikshithvv/daily-leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Parikshithvv/daily-leet/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Parikshithvv/daily-leet/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Parikshithvv/daily-leet/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Parikshithvv/daily-leet/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Parikshithvv/daily-leet/tree/master/0127-word-ladder) |
@@ -683,6 +686,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parikshithvv/daily-leet/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Parikshithvv/daily-leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Parikshithvv/daily-leet/tree/master/0231-power-of-two) |
