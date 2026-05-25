@@ -405,6 +405,7 @@
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Parikshithvv/daily-leet/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Parikshithvv/daily-leet/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -541,6 +542,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Parikshithvv/daily-leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Parikshithvv/daily-leet/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -660,6 +662,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Parikshithvv/daily-leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Parikshithvv/daily-leet/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -685,6 +688,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Parikshithvv/daily-leet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Parikshithvv/daily-leet/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Parikshithvv/daily-leet/tree/master/3634-minimum-removals-to-balance-array) |
