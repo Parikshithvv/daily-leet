@@ -306,6 +306,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Parikshithvv/daily-leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parikshithvv/daily-leet/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/Parikshithvv/daily-leet/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -674,6 +675,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parikshithvv/daily-leet/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Parikshithvv/daily-leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parikshithvv/daily-leet/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Parikshithvv/daily-leet/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
