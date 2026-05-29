@@ -141,6 +141,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Parikshithvv/daily-leet/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parikshithvv/daily-leet/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parikshithvv/daily-leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parikshithvv/daily-leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -225,6 +226,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parikshithvv/daily-leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parikshithvv/daily-leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parikshithvv/daily-leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
