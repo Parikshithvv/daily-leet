@@ -210,6 +210,7 @@
 | [0013-roman-to-integer](https://github.com/Parikshithvv/daily-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parikshithvv/daily-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Parikshithvv/daily-leet/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Parikshithvv/daily-leet/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Parikshithvv/daily-leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Parikshithvv/daily-leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Parikshithvv/daily-leet/tree/master/0070-climbing-stairs) |
@@ -398,6 +399,7 @@
 | [0045-jump-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Parikshithvv/daily-leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Parikshithvv/daily-leet/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Parikshithvv/daily-leet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Parikshithvv/daily-leet/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Parikshithvv/daily-leet/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Parikshithvv/daily-leet/tree/master/0118-pascals-triangle) |
@@ -997,4 +999,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Parikshithvv/daily-leet/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Parikshithvv/daily-leet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
