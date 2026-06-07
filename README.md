@@ -123,6 +123,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Parikshithvv/daily-leet/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parikshithvv/daily-leet/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Parikshithvv/daily-leet/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -312,6 +313,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Parikshithvv/daily-leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parikshithvv/daily-leet/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parikshithvv/daily-leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Parikshithvv/daily-leet/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Parikshithvv/daily-leet/tree/master/2615-sum-of-distances) |
@@ -881,6 +883,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parikshithvv/daily-leet/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -906,6 +909,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parikshithvv/daily-leet/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
