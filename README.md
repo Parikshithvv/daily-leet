@@ -123,6 +123,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Parikshithvv/daily-leet/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Parikshithvv/daily-leet/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Parikshithvv/daily-leet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parikshithvv/daily-leet/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2227-sum-of-subarray-ranges](https://github.com/Parikshithvv/daily-leet/tree/master/2227-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -198,6 +199,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/0908-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Parikshithvv/daily-leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Parikshithvv/daily-leet/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Parikshithvv/daily-leet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Parikshithvv/daily-leet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Parikshithvv/daily-leet/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parikshithvv/daily-leet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -386,6 +388,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parikshithvv/daily-leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2069-walking-robot-simulation-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Parikshithvv/daily-leet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Parikshithvv/daily-leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
