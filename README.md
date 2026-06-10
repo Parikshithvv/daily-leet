@@ -164,6 +164,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Parikshithvv/daily-leet/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/3660-jump-game-ix) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Parikshithvv/daily-leet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -273,6 +274,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parikshithvv/daily-leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parikshithvv/daily-leet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -552,6 +554,7 @@
 | [0493-reverse-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Parikshithvv/daily-leet/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -765,6 +768,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
