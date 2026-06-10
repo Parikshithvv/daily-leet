@@ -236,6 +236,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Parikshithvv/daily-leet/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Parikshithvv/daily-leet/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parikshithvv/daily-leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
