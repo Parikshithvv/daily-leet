@@ -170,6 +170,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Parikshithvv/daily-leet/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Parikshithvv/daily-leet/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Parikshithvv/daily-leet/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -717,6 +719,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parikshithvv/daily-leet/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Parikshithvv/daily-leet/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3838-weighted-word-mapping](https://github.com/Parikshithvv/daily-leet/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
