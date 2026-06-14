@@ -64,6 +64,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Parikshithvv/daily-leet/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Parikshithvv/daily-leet/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Parikshithvv/daily-leet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Parikshithvv/daily-leet/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Parikshithvv/daily-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0503-next-greater-element-ii) |
