@@ -231,6 +231,7 @@
 | [0342-power-of-four](https://github.com/Parikshithvv/daily-leet/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Parikshithvv/daily-leet/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Parikshithvv/daily-leet/tree/master/0788-rotated-digits) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Parikshithvv/daily-leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1447-simplified-fractions](https://github.com/Parikshithvv/daily-leet/tree/master/1447-simplified-fractions) |
