@@ -162,6 +162,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Parikshithvv/daily-leet/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parikshithvv/daily-leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parikshithvv/daily-leet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Parikshithvv/daily-leet/tree/master/3634-minimum-removals-to-balance-array) |
@@ -462,6 +463,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Parikshithvv/daily-leet/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/3660-jump-game-ix) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -506,6 +508,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parikshithvv/daily-leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Parikshithvv/daily-leet/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parikshithvv/daily-leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parikshithvv/daily-leet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -821,6 +824,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Parikshithvv/daily-leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
@@ -1016,10 +1020,12 @@
 | [0802-find-eventual-safe-states](https://github.com/Parikshithvv/daily-leet/tree/master/0802-find-eventual-safe-states) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parikshithvv/daily-leet/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parikshithvv/daily-leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Parikshithvv/daily-leet/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1059,6 +1065,7 @@
 | [0207-course-schedule](https://github.com/Parikshithvv/daily-leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Parikshithvv/daily-leet/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Parikshithvv/daily-leet/tree/master/0802-find-eventual-safe-states) |
+| [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 ## Geometry
 |  |
 | ------- |
