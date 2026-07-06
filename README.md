@@ -94,6 +94,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parikshithvv/daily-leet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Parikshithvv/daily-leet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1288-remove-covered-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1345-jump-game-iv) |
@@ -529,6 +530,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Parikshithvv/daily-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Parikshithvv/daily-leet/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parikshithvv/daily-leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Parikshithvv/daily-leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
