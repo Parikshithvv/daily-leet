@@ -1076,6 +1076,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Parikshithvv/daily-leet/tree/master/1291-sequential-digits) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parikshithvv/daily-leet/tree/master/3546-equal-sum-grid-partition-i) |
 ## Topological Sort
 |  |
