@@ -154,6 +154,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parikshithvv/daily-leet/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parikshithvv/daily-leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Parikshithvv/daily-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/Parikshithvv/daily-leet/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parikshithvv/daily-leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -258,6 +259,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Parikshithvv/daily-leet/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parikshithvv/daily-leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parikshithvv/daily-leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Parikshithvv/daily-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Parikshithvv/daily-leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Parikshithvv/daily-leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Parikshithvv/daily-leet/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -469,6 +471,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Parikshithvv/daily-leet/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Parikshithvv/daily-leet/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Parikshithvv/daily-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Parikshithvv/daily-leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Parikshithvv/daily-leet/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/3660-jump-game-ix) |
@@ -870,6 +873,7 @@
 | ------- |
 | [1447-simplified-fractions](https://github.com/Parikshithvv/daily-leet/tree/master/1447-simplified-fractions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Parikshithvv/daily-leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Parikshithvv/daily-leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Parikshithvv/daily-leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Monotonic Stack
 |  |
