@@ -85,6 +85,7 @@
 | [0860-lemonade-change](https://github.com/Parikshithvv/daily-leet/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Parikshithvv/daily-leet/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Parikshithvv/daily-leet/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Parikshithvv/daily-leet/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
@@ -253,6 +254,7 @@
 | [0486-predict-the-winner](https://github.com/Parikshithvv/daily-leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Parikshithvv/daily-leet/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parikshithvv/daily-leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -488,6 +490,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Parikshithvv/daily-leet/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Parikshithvv/daily-leet/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Parikshithvv/daily-leet/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parikshithvv/daily-leet/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
@@ -1168,4 +1171,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Parikshithvv/daily-leet/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
