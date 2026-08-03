@@ -104,6 +104,7 @@
 | [1345-jump-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parikshithvv/daily-leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -257,6 +258,7 @@
 | [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parikshithvv/daily-leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1447-simplified-fractions](https://github.com/Parikshithvv/daily-leet/tree/master/1447-simplified-fractions) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
@@ -494,6 +496,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parikshithvv/daily-leet/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
@@ -1172,4 +1175,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Parikshithvv/daily-leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
