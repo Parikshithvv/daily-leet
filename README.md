@@ -96,6 +96,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Parikshithvv/daily-leet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Parikshithvv/daily-leet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/Parikshithvv/daily-leet/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1306-jump-game-iii) |
@@ -257,6 +258,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Parikshithvv/daily-leet/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parikshithvv/daily-leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
@@ -498,6 +500,7 @@
 | [0799-champagne-tower](https://github.com/Parikshithvv/daily-leet/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Parikshithvv/daily-leet/tree/master/0943-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parikshithvv/daily-leet/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
@@ -677,6 +680,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Parikshithvv/daily-leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Parikshithvv/daily-leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Parikshithvv/daily-leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1187,13 +1191,16 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Parikshithvv/daily-leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
