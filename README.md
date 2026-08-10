@@ -265,6 +265,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Parikshithvv/daily-leet/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1447-simplified-fractions](https://github.com/Parikshithvv/daily-leet/tree/master/1447-simplified-fractions) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/Parikshithvv/daily-leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -504,6 +505,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Parikshithvv/daily-leet/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
@@ -1193,14 +1195,25 @@
 | [0877-stone-game](https://github.com/Parikshithvv/daily-leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
