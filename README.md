@@ -130,6 +130,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parikshithvv/daily-leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parikshithvv/daily-leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Parikshithvv/daily-leet/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Parikshithvv/daily-leet/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Parikshithvv/daily-leet/tree/master/2047-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Parikshithvv/daily-leet/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -273,6 +274,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1922-count-good-numbers](https://github.com/Parikshithvv/daily-leet/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parikshithvv/daily-leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Parikshithvv/daily-leet/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Parikshithvv/daily-leet/tree/master/2288-count-operations-to-obtain-zero) |
@@ -322,6 +324,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Parikshithvv/daily-leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parikshithvv/daily-leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parikshithvv/daily-leet/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Parikshithvv/daily-leet/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Parikshithvv/daily-leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Parikshithvv/daily-leet/tree/master/2126-destroying-asteroids) |
@@ -629,6 +632,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Parikshithvv/daily-leet/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Parikshithvv/daily-leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Parikshithvv/daily-leet/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Parikshithvv/daily-leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/Parikshithvv/daily-leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Parikshithvv/daily-leet/tree/master/2833-furthest-point-from-origin) |
@@ -1205,22 +1209,26 @@
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
