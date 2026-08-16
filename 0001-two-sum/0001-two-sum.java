@@ -8,6 +8,7 @@ class Solution {
             int ans = target - nums[i];
             if(map.containsKey(ans)){
                 return new int[] {map.get(ans),i};
+
             }
             map.put(nums[i],i);
         }
