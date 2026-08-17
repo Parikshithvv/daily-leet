@@ -109,6 +109,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Parikshithvv/daily-leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Parikshithvv/daily-leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parikshithvv/daily-leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -269,6 +270,7 @@
 | [1447-simplified-fractions](https://github.com/Parikshithvv/daily-leet/tree/master/1447-simplified-fractions) |
 | [1448-maximum-69-number](https://github.com/Parikshithvv/daily-leet/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Parikshithvv/daily-leet/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/Parikshithvv/daily-leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parikshithvv/daily-leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -514,6 +516,7 @@
 | [1340-jump-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parikshithvv/daily-leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Parikshithvv/daily-leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1871-jump-game-vii](https://github.com/Parikshithvv/daily-leet/tree/master/1871-jump-game-vii) |
@@ -1209,6 +1212,7 @@
 | [1140-stone-game-ii](https://github.com/Parikshithvv/daily-leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Parikshithvv/daily-leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Parikshithvv/daily-leet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Parikshithvv/daily-leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Parikshithvv/daily-leet/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
